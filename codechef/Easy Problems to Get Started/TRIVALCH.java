@@ -22,5 +22,5 @@ public class TRIVALCH
     ob.validtri(a,b,c);
   }
 }
-// time complexity = O()
-// space complexity = O()
+// time complexity = O(1)
+// space complexity = O(1)
